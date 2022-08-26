@@ -1,4 +1,7 @@
-let count = 0;
+let count = 5;
+console.log(count);
+
+
 let saveEl = document.getElementById("save-el");
 let countEl = document.getElementById("count-el");
 
