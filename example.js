@@ -66,3 +66,16 @@ function myLogger() {
 }
 
 myLogger();
+
+//Create a function that logs of the sum of all the lap times
+let lap1 = 34;
+let lap2 = 33;
+let lap3 = 36;
+
+function logLapTime() {
+  let totalTime = lap1 + lap2 + lap3;
+  console.log(totalTime);
+}
+
+// console.log(totalTime); totalTime is not defined
+logLapTime();
