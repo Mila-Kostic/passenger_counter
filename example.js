@@ -79,3 +79,18 @@ function logLapTime() {
 
 // console.log(totalTime); totalTime is not defined
 logLapTime();
+
+//Create a function that increments the lapsCompleted variable with one
+// Run it three times
+
+let lapsCompleted = 0;
+
+function incrementLap() {
+  lapsCompleted = lapsCompleted + 1;
+}
+
+incrementLap();
+incrementLap();
+incrementLap();
+
+console.log(lapsCompleted);
