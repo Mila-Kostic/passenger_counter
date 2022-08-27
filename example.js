@@ -48,6 +48,7 @@ console.log(bonusPoints);
 bonusPoints = bonusPoints + 45;
 console.log(bonusPoints);
 
+//example countdown
 function countdown() {
   console.log(5);
   console.log(4);
