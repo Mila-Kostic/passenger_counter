@@ -19,13 +19,13 @@ h2 {
 
 button {
   border: 1px solid red;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
   color: white;
   font-weight: bold;
-  width: 200px;
-  margin-bottom: 5px;
-  border-radius: 5px;
+  width: 100px;
+  margin-bottom: 3px;
+  border-radius: 10px;
 }
 
 #increment-btn {
