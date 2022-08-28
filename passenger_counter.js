@@ -28,3 +28,9 @@ function increment() {
   countEl.innerText = count; // for write in browser
   console.log(count);
 }
+
+// Create a function, save(), which logs out the count it's called
+
+function save() {
+  console.log(count);
+}
