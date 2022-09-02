@@ -100,4 +100,9 @@ let username = "Peter";
 
 let message = "You have tree new notifications";
 
+let messageToUser = message + ", " + username + "!";
+
 console.log(message + ", " + username + "!");
+
+//beter way to write with one variable
+console.log(messageToUser);
