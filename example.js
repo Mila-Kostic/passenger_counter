@@ -94,3 +94,10 @@ incrementLap();
 incrementLap();
 
 console.log(lapsCompleted);
+
+// Create a variable, message, that stores the string: "You have tree new notifications"
+let username = "Peter";
+
+let message = "You have tree new notifications";
+
+console.log(message + ", " + username);

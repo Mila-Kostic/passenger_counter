@@ -18,7 +18,7 @@
 
 let countEl = document.getElementById("count-el"); //pass argument
 
-console.log(countEl);
+console.log("countEl" + countEl);
 
 let count = 0;
 
