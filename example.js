@@ -100,4 +100,4 @@ let username = "Peter";
 
 let message = "You have tree new notifications";
 
-console.log(message + ", " + username);
+console.log(message + ", " + username + "!");
